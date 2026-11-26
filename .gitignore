@@ -1,0 +1,10 @@
+# best score written by the game while you play
+highscore.txt
+
+# byte-code caches
+__pycache__/
+*.pyc
+
+# the terminal output panel of editors sometimes leaves these behind
+*.orig
+*.rej
